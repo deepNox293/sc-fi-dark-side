@@ -9,5 +9,5 @@ Alex enters the abandoned expeditions, **EVA** speaks:
 > "Commander I detect life forms in the medical bay."
 
 
-🩺 [Enter Medical Bay](./medical-bay.md)
-🎥 [Enter Bridge](./bridge.md)
+- 🩺 [Enter Medical Bay](./medical-bay.md)
+- 🎥 [Enter Bridge](./bridge.md)
