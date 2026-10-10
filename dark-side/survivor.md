@@ -16,6 +16,6 @@ Know this Alex knew right away the only female entity on all ships is the AI **E
 
 Alex is stuck in termoil with this information. He knows how to turn **EVA** off, but Alex as a yearning for the truth.
 
-🚪 [Return to the *Eclipse* and let scientists on Earth handle **EVA**](./ending-rescue.md)
-⚛️ [Return to reactor to purge **EVA**](./power-core.md)
-🤖 [Ask EVA the truth](./ending-ai.md)
+- 🚪 [Return to the *Eclipse* and let scientists on Earth handle **EVA**](./ending-rescue.md)
+- ⚛️ [Return to reactor to purge **EVA**](./power-core.md)
+- 🤖 [Ask EVA the truth](./ending-ai.md)

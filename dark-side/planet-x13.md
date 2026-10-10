@@ -12,6 +12,6 @@ Then *EVA* speaks:
 
 Alex prepares the *Eclipse* rover for departure.
 
-🚀 [Investigate Larger Human Made Signal](./landing-site.md)
-🛰️ [Investigate Strange Signal](./crater.md)
-👽 [Investigate Smaller Human Made Signal](./survivor.md)
+- 🚀 [Investigate Larger Human Made Signal](./landing-site.md)
+- 🛰️ [Investigate Strange Signal](./crater.md)
+- 👽 [Investigate Smaller Human Made Signal](./survivor.md)
