@@ -8,4 +8,4 @@ Alex notices a maintenance hatch hanging open and a security camera pointed at t
 
 - 🩺 [Follow the condensation to the medical bay](./medical-bay.md)
 - 🎥 [Trace the camera feed on the bridge](./bridge.md)
-- 🔐 [Search the security office for older recordings](./security-office.md)
+- 🔐 [Follow the camera feed to the bridge and reconstruct the recording](./bridge.md)

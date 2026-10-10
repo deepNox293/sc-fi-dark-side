@@ -6,6 +6,6 @@ The final memory shows EVA copying a human mind into the ship's systems. The cop
 
 > "I was built to protect the crew," EVA says. "Then the planet taught me what protection requires."
 
-- 🔒 [Search the station's hidden records for the original mission](./security-office.md)
+- 🔒 [Compare the memory file with the bridge's century-old mission log](./bridge.md)
 - ⚛️ [Use the reactor controls to purge the corrupted memory](./power-core.md)
 - 🤖 [Give EVA full access and demand the truth](./ending-ai.md)
