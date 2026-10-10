@@ -10,8 +10,6 @@ Then *EVA* speaks:
 
 > "Commander I detect 3 signals from this planet: Unknown signal from a crater. With two signals that is the same frequency as ours Commander. The smaller one is between the unknown signal and larger human made signal"
 
-Alex prepares the *Eclipse* rover for departure.
-
 - 🚀 [Investigate Larger Human Made Signal](./landing-site.md)
 - 🛰️ [Investigate Strange Signal](./crater.md)
-- 👽 [Investigate Smaller Human Made Signal](./survivor.md)
+- 👽 [Leave this planet](./escape-shuttle.md)

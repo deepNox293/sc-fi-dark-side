@@ -1,13 +1,9 @@
-# The Missing Expition
+# The Abandoned Expedition
 
-As Alex approaches the Larger Human made signal, it becomes clear there is signs of a abandoned expeditions.
+Alex lands on Planet-x13 and discovers an abandoned research camp. There are damaged equipment, strange footprints and a distress signal coming from a nearby crater.
 
-Alex enters the ship and learns this was the *Destiny* one of the first expeditions looking for Planet-x13.
+At the camp, Alex finds a recording explaining that the expedition discovered something dangerous beneath the planet's surface.
 
-Alex enters the abandoned expeditions, **EVA** speaks:
-
-> "Commander I detect life forms in the medical bay."
-
-
-- 🩺 [Enter Medical Bay](./medical-bay.md)
-- 🎥 [Enter Bridge](./bridge.md)
+- 🕳️ [Investigate the mysterious crater](./crater.md)
+- 🧑‍🚀 [Search for survivors](./survivor.md)
+- 🚀 [Return to the ship](./escape-shuttle.md)
